@@ -1,3 +1,4 @@
-# rock-paper-scissors
+ROCK PAPER SCISSORS
 
-Here is my second project called "rock paper and scissors". It is played by 2 people.
+This is  first my rock paper scissors game had some assistance from a senior developer Tolulope Olusakin. Enjoy the game.
+
